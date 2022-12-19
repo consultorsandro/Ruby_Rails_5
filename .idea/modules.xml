@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Ruby_Rails_5.iml" filepath="$PROJECT_DIR$/.idea/Ruby_Rails_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bundler.iml" filepath="$PROJECT_DIR$/.idea/modules/bundler.iml" />
     </modules>
   </component>
 </project>
